@@ -40,7 +40,7 @@
     "babel-jest": "^30.0.2",
     "concurrently": "^9.2.0",
     "eslint": "^8.57.1",
-    "eslint-config-prettier": "^10.1.5",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-es-x": "^8.6.2",
     "eslint-plugin-import": "^2.31.0",
